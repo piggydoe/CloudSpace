@@ -1,3 +1,7 @@
+# The fuck is this?
+
+This shit is just ipalib v3 made in svelte with a framework to make it feel like a native app because i feel like nothings ever good im re doing it for like the fourth fucking time. And yeah, eventually I will host my own IPA files @ https://cloudspace-cloud9.netlify.app (Server), For now im just ripping files off zeus :skull:
+
 # Svelte + Vite
 
 This template should help get you started developing with Svelte in Vite.
